@@ -260,13 +260,10 @@ subject
 between
 forum
 family
-l
 long
 based
-w
 code
 show
-o
 even
 black
 check
@@ -298,7 +295,6 @@ house
 related
 security
 both
-g
 county
 american
 photo
@@ -317,7 +313,6 @@ place
 end
 following
 download
-h
 him
 without
 per
@@ -356,7 +351,6 @@ during
 usa
 return
 students
-v
 shopping
 account
 times
@@ -378,8 +372,6 @@ department
 title
 description
 non
-k
-y
 insurance
 another
 why
@@ -414,13 +406,11 @@ man
 card
 jobs
 provide
-j
 food
 source
 author
 different
 press
-u
 learn
 sale
 around
